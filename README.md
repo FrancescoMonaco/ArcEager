@@ -4,9 +4,7 @@ List of implemented things:
 * LSTM model in full
 * BERT model in full
 * Search for optimal parameters
-
-
-Currently in work:
 * Error analysis
 * Discussion
+
 
